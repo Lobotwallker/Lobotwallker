@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <language>en</language>
+    <title>W3C - Accessible Rich Internet Applications Working Group</title>
+    <description>The mission of the Accessible Rich Internet Applications Working Group is to enhance the accessibility of web content through the development of supplemental attributes, including roles, states, and other properties, that can be applied to native host language elements and exposed via platform accessibility APIs.</description>
+    <pubDate>Fri, 19 Jul 2024 02:38:29 +0000</pubDate>
+    <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
+    <link>https://www.w3.org/groups/wg/aria/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.w3.org/groups/wg/aria/feed/"/>
+    <item>
+      <title>W3C Invites Implementations of DPub-ARIA 1.1 and DPub-AAM 1.1</title>
+      <description><![CDATA[DPub-ARIA 1.1 and DPub-AAM 1.1 are now W3C Candidate Recommendation Snapshots.]]></description>
+      <pubDate>Tue, 27 Feb 2024 03:00:00 +0000</pubDate>
+      <link>https://www.w3.org/news/2024/w3c-invites-implementations-of-dpub-aria-1-1-and-dpub-aam-1-1/</link>
+      <guid>https://www.w3.org/news/2024/w3c-invites-implementations-of-dpub-aria-1-1-and-dpub-aam-1-1/</guid>
+      <category><![CDATA[news]]></category>
+      <content:encoded><![CDATA[            <div class="component component--text">
+                    <p>The <a href="https://www.w3.org/groups/wg/aria/">Accessible Rich Internet Applications Working Group</a> invites implementations of the following Candidate Recommendation Snapshots:</p><ul><li><a href="https://www.w3.org/TR/2024/CR-dpub-aria-1.1-20240227/">Digital Publishing WAI-ARIA Module 1.1</a>: Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents.</li><li><a href="https://www.w3.org/TR/2024/CR-dpub-aam-1.1-20240227/">Digital Publishing Accessibility API Mappings 1.1</a> defines how <a href="https://infra.spec.whatwg.org/#user-agent">user agents</a> map the Digital Publishing <abbr title="Accessible Rich Internet Application">WAI-ARIA</abbr> Module [<a href="https://www.w3.org/TR/2024/CR-dpub-aam-1.1-20240227/#bib-dpub-aria-1.1" title="Digital Publishing WAI-ARIA Module 1.1"><cite>dpub-aria-1.1</cite></a>] markup to platform <a href="https://www.w3.org/TR/wai-aria/#dfn-accessibility-api">accessibility <abbr title="Application Programming Interfaces">APIs</abbr></a>. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility content produced for digital publishing.</li></ul><p>Comments are welcome via <a href="https://github.com/w3c/dpub-aria/issues/">GitHub issues</a> by <strong>27 April 2024</strong>.</p>
+            </div>
+    ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>First Public Working Draft: Accessible Rich Internet Applications (WAI-ARIA) 1.3</title>
+      <description><![CDATA[WAI-ARIA 1.3 provides an ontology of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications.]]></description>
+      <pubDate>Tue, 23 Jan 2024 01:30:00 +0000</pubDate>
+      <link>https://www.w3.org/news/2024/first-public-working-draft-accessible-rich-internet-applications-wai-aria-1-3/</link>
+      <guid>https://www.w3.org/news/2024/first-public-working-draft-accessible-rich-internet-applications-wai-aria-1-3/</guid>
+      <category><![CDATA[news]]></category>
+      <content:encoded><![CDATA[            <div class="component component--text">
+                    <p>The <a href="https://www.w3.org/groups/wg/aria/">Accessible Rich Internet Applications Working Group</a> published the First Public Working Draft of <a href="https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/">Accessible Rich Internet Applications (WAI-ARIA) 1.3</a>. This specification provides an ontology of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. Changes from ARIA 1.2 include: new roles (suggestion, comment, mark), new attributes (aria-description, aria-braillelabel, aria-brailleroledescription) and updates to aria-details to allow multiple IDrefs. Additional changes are in the <a href="https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/#changelog">changelog</a>. Please submit any comments by <strong>21 February 2024</strong>. For an introduction to WAI-ARIA and related resources, see the <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a>.</p>
+            </div>
+    ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Accessible Rich Internet Applications (WAI-ARIA) 1.2 is a W3C Recommendation</title>
+      <pubDate>Tue, 06 Jun 2023 17:08:00 +0000</pubDate>
+      <link>https://www.w3.org/news/2023/accessible-rich-internet-applications-wai-aria-1-2-is-a-w3c-recommendation/</link>
+      <guid>https://www.w3.org/news/2023/accessible-rich-internet-applications-wai-aria-1-2-is-a-w3c-recommendation/</guid>
+      <category><![CDATA[news]]></category>
+      <content:encoded><![CDATA[            <div class="component component--text">
+                    <p>The <a href="https://www.w3.org/groups/wg/aria">Accessible Rich Internet Applications Working Group</a> has published <a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/">Accessible Rich Internet Applications (WAI-ARIA) 1.2</a> as a W3C Recommendation. Accessibility of web content requires semantic information about widgets, structures, and behaviors, in order to allow assistive technologies to convey appropriate information to persons with disabilities. This specification provides an ontology of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. These semantics are designed to allow an author to properly convey user interface behaviors and structural information to assistive technologies in document-level markup. This version adds features new since WAI-ARIA 1.1 [<a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/#bib-wai-aria-1.1">wai-aria-1.1</a>] to improve interoperability with assistive technologies to form a more consistent accessibility model for [<a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/#bib-html">HTML</a>] and [<a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/#bib-svg2">SVG2</a>]. This specification complements both [<a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/#bib-html">HTML</a>] and [<a href="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/#bib-svg2">SVG2</a>].</p>
+
+<p>This document is part of the WAI-ARIA suite described in the <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a>.</p>
+            </div>
+    ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Call for Review: WAI-ARIA 1.2 is a W3C Proposed Recommendation</title>
+      <pubDate>Tue, 28 Mar 2023 08:58:00 +0000</pubDate>
+      <link>https://www.w3.org/news/2023/call-for-review-wai-aria-1-2-is-a-w3c-proposed-recommendation/</link>
+      <guid>https://www.w3.org/news/2023/call-for-review-wai-aria-1-2-is-a-w3c-proposed-recommendation/</guid>
+      <category><![CDATA[news]]></category>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
